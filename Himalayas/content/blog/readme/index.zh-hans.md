@@ -6,6 +6,6 @@ tags:
   - README
 ---
 
-See also [README.md](https://github.com/razonyang/hugo-theme-bootstrap-skeleton/blob/main/README.md).
+Go Himalayas, everything is just beginning!
 
 <!--more-->

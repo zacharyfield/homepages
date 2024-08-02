@@ -1,9 +1,9 @@
 +++
 title = "About"
-description = "Describe yourself."
+description = "Himalayas"
 reward = false
 postDate = false
 readingTime = false
 +++
 
-Hi there, I'm XXX.
+Go Himalayas, everything is just beginning!

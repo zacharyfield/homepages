@@ -1,12 +1,12 @@
 ---
 # type: docs 
-title: More Image Processing Methods
-date: 2022-07-08T11:34:47+08:00
+title: Go Himalayas
+date: 2024-07-28T11:34:47+08:00
 featured: true
 draft: false
-comment: true
-toc: true
-reward: true
+comment: false
+toc: false
+reward: false
 pinned: false
 carousel: true
 series:
@@ -19,12 +19,12 @@ tags:
   - Fill
   - Filters
 authors:
-  - RazonYang
+  - Himalayas
 images: []
 ---
 
-Since `v1.0.0-alpha.1`, HBS supports much more image processing methods. Such as Crop, Fit and Fill images. You can also apply filters on an image.
+Go Himalayas, everything is just beginning!
 
 <!--more-->
 
-See also [Image Processing](https://hbs.razonyang.com/v1/en/docs/image-processing/).
+See code for [This site](https://github.com/zacharyfield/homepages/).
