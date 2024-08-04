@@ -1,14 +1,14 @@
 ---
 date: 2022-09-06T22:42:23+08:00
-title: Install on Ubuntu
-linkTitle: Ubuntu
+title: Firefox
+linkTitle: Firefox
 series:
   - Guide
 categories:
   - Installation
 tags:
   - Linux
-  - Ubuntu
+  - Arch Linux
 ---
 
-This guide show you how to install on Ubuntu.
+This guide show you how to install on Arch Linux.
