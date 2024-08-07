@@ -1,5 +1,5 @@
 ---
-date: 2022-06-04T22:22:22+08:00
+date: 2020-06-04T11:11:11+08:00
 title: ClashMetaForAndroid
 linkTitle: ClashMetaForAndroid
 series: 
